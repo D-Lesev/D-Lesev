@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @D-Lesev
-- 👀 I’m interested in Python, AI/ML, Cybersecurity
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on future projects and tasks
-- 📫 How to reach me - you can always find me here
 
-<!---
-D-Lesev/D-Lesev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Danail! 👋
+
+
+## 🚀 About Me
+I'm currently learning Python
+
+Working in total different area but soon to be Python developer
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danail-lesev-489256118/)
+
+
+## Other Common Github Profile Sections
+
+🧠 I'm currently learning Python and almost everything connect to it. Also interested in Cybersecurity with Python, Kali itselft and making custom functions/tools for it.
+
+📫 How to reach me -> My LinkedIn Profile is mentioned above
+## 🛠 Skills
+Python, Linux
