@@ -20,4 +20,4 @@ Working in total different area but soon to be Python developer or getting into 
 
 📫 How to reach me -> My LinkedIn Profile is mentioned above
 ## 🛠 Skills
-Python, Linux
+Python, Linux, Git, Docker
