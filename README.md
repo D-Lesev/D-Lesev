@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm currently learning Python
 
-Working in total different area but soon to be Python developer
+Working in total different area but soon to be Python developer or getting into Cybersecurity.
 
 
 
