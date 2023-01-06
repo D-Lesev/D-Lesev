@@ -7,6 +7,8 @@ I'm currently learning Python
 
 Working in total different area but soon to be Python developer or getting into Cybersecurity.
 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
 
 
 ## 🔗 Links
